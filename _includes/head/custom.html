@@ -1,3 +1,15 @@
 <style>
   .author__avatar img[src=""] { display: none; }
 </style>
+<script>
+  document.addEventListener('click', function (event) {
+    var link = event.target.closest('#site-nav a[href*="#"]');
+    if (!link) return;
+    var targetId = link.getAttribute('href').split('#').pop().replace(/^-/, '');
+    var target = document.getElementById(targetId);
+    if (!target) return;
+    event.preventDefault();
+    history.replaceState(null, '', '#' + targetId);
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+</script>
