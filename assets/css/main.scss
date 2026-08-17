@@ -139,3 +139,20 @@ a:hover { color: #d9ad57; }
   .top-profile__avatar { width: 148px; height: 148px; }
   .top-profile__content h1 { font-size: 2em; }
 }
+.top-profile__photo-slot {
+  align-items: center;
+  background: #202434;
+  border: 2px dashed #d9ad57;
+  border-radius: 50%;
+  color: #e7bc68;
+  display: flex;
+  flex-direction: column;
+  height: 210px;
+  justify-content: center;
+  text-align: center;
+  width: 210px;
+}
+.top-profile__photo-slot span { color: #d7d4cc; font-size: .78em; margin-top: .5rem; max-width: 132px; }
+@media (max-width: 640px) {
+  .top-profile__photo-slot { height: 148px; width: 148px; }
+}
