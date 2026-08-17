@@ -2,6 +2,11 @@
 <header class="top-profile" aria-label="个人信息">
   {% if author.avatar %}
     <img class="top-profile__avatar" src="{{ author.avatar }}" alt="{{ author.name }}">
+  {% else %}
+    <div class="top-profile__photo-slot" aria-label="老师照片预留位">
+      <strong>老师照片</strong>
+      <span>上传至 images/profile.jpg</span>
+    </div>
   {% endif %}
   <div class="top-profile__content">
     <h1>{{ author.name }}</h1>
