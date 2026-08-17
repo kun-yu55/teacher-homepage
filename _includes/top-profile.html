@@ -1,0 +1,13 @@
+{% assign author = site.author %}
+<header class="top-profile" aria-label="个人信息">
+  {% if author.avatar %}
+    <img class="top-profile__avatar" src="{{ author.avatar }}" alt="{{ author.name }}">
+  {% endif %}
+  <div class="top-profile__content">
+    <h1>{{ author.name }}</h1>
+    <p class="top-profile__role">{{ author.bio }}</p>
+    {% if author.employer %}<p>{{ author.employer }}</p>{% endif %}
+    {% if author.location %}<p>{{ author.location }}</p>{% endif %}
+    {% if author.email %}<p><strong>邮箱：</strong><a href="mailto:{{ author.email }}">{{ author.email }}</a></p>{% endif %}
+  </div>
+</header>
