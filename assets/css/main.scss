@@ -156,3 +156,58 @@ a:hover { color: #d9ad57; }
 @media (max-width: 640px) {
   .top-profile__photo-slot { height: 148px; width: 148px; }
 }
+/* Publication cards: method figure on the left, metadata on the right */
+.publication-list { display: grid; gap: 1.35rem; margin-top: 1.4rem; }
+.publication-card {
+  background: #191c2b;
+  border: 1px solid #303648;
+  border-radius: 16px;
+  box-shadow: 0 10px 22px rgba(0, 0, 0, .18);
+  display: grid;
+  grid-template-columns: minmax(250px, 38%) 1fr;
+  overflow: hidden;
+}
+.publication-card__method {
+  align-items: center;
+  background: linear-gradient(135deg, #242b3d, #1b2030);
+  border-right: 1px solid #303648;
+  color: #e7bc68;
+  display: flex;
+  flex-direction: column;
+  font-weight: 700;
+  gap: .45rem;
+  justify-content: center;
+  min-height: 205px;
+  padding: 1rem;
+  text-align: center;
+}
+.publication-card__method::before {
+  border: 2px dashed #60708b;
+  border-radius: 10px;
+  content: '';
+  height: 68%;
+  position: absolute;
+  width: 28%;
+}
+.publication-card__method span, .publication-card__method small { position: relative; z-index: 1; }
+.publication-card__method small { color: #c5c9d1; font-size: .82em; font-weight: 400; }
+.publication-card__content { padding: 1.45rem 1.6rem; }
+.publication-card__content h3 { color: #e8e5de; font-size: 1.16em; line-height: 1.4; margin: 0 0 .75rem; }
+.publication-card__venue { color: #c9ced9; font-style: italic; line-height: 1.55; margin: 0 0 1rem; }
+.publication-card__actions { align-items: center; display: flex; flex-wrap: wrap; gap: .55rem; }
+.publication-card__actions span, .publication-card__link {
+  background: #283247;
+  border: 1px solid #3b4963;
+  border-radius: 999px;
+  color: #dce7f8;
+  font-size: .84em;
+  padding: .28rem .7rem;
+  text-decoration: none;
+}
+.publication-card__link { background: #d36a80; border-color: #d36a80; color: #fff; font-weight: 700; }
+.publication-card__link:hover { background: #e47a90; color: #fff; }
+@media (max-width: 720px) {
+  .publication-card { grid-template-columns: 1fr; }
+  .publication-card__method { border-bottom: 1px solid #303648; border-right: 0; min-height: 165px; }
+  .publication-card__method::before { height: 110px; width: 68%; }
+}
