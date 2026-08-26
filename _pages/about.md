@@ -33,7 +33,6 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>RCLEAF: Reliable Contrastive Learning Driven Efficient Adaptive Fusion for Multi-View Clustering</h3>
     <p class='publication-card__venue'>Knowledge-Based Systems, 2025: 115028.</p>
-    <div class='publication-card__actions'><span>代表性成果</span></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -43,7 +42,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance</h3>
     <p class='publication-card__venue'>IEEE Journal of Biomedical and Health Informatics, 2025.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/ggllllll/MASG-SAM'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/ggllllll/MASG-SAM'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -53,7 +52,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Progressive pseudo-labels enhancement for source-free domain adaptation medical image segmentation</h3>
     <p class='publication-card__venue'>Biomedical Signal Processing and Control, 2025, 109: 108053.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/ggllllll/ESFDA'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/ggllllll/ESFDA'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -63,7 +62,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Self-distillation guided Semantic Knowledge Feedback network for infrared-visible image fusion</h3>
     <p class='publication-card__venue'>Image and Vision Computing, 2025: 105566.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/yyzzttkkjj/SKFFusion'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/yyzzttkkjj/SKFFusion'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -73,7 +72,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>SFIFusion: Semantic-Frequency Integration for Task-driven Infrared and Visible Image Fusion</h3>
     <p class='publication-card__venue'>Signal Processing, 2025: 110419.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/Zzuouo/SFIFusion'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/Zzuouo/SFIFusion'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -83,7 +82,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation</h3>
     <p class='publication-card__venue'>Medical & Biological Engineering & Computing, 2025: 1–20.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/yxk-art/C2MAL'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/yxk-art/C2MAL'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -93,7 +92,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>3VNet: Topological-structure driven Triple-V Network for Retinal Vessel Segmentation</h3>
     <p class='publication-card__venue'>International Conference on Neural Information Processing, 2025.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/wangwxr/3VNET'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/wangwxr/3VNET'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -103,7 +102,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation</h3>
     <p class='publication-card__venue'>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/Ggllllllll/AdaptSAM'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/Ggllllllll/AdaptSAM'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -113,7 +112,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Dual-SAM: Prompt-enhanced Dual-branch Adaptation of Vision Foundation Models for Semi-supervised Medical Image Segmentation</h3>
     <p class='publication-card__venue'>Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/Heirudy/Dual-SAM'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/Heirudy/Dual-SAM'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -123,7 +122,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation</h3>
     <p class='publication-card__venue'>IEEE Signal Processing Letters, 2024.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/ggllllll/BiASAM-'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/ggllllll/BiASAM-'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -133,7 +132,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Diffusion-driven Dual-flow Source-Free Domain Adaptation for Medical Image Segmentation</h3>
     <p class='publication-card__venue'>IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024: 4082–4087.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/M4cheal/D2SFDA'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/M4cheal/D2SFDA'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -143,7 +142,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>DMU-TransNet: Dense multi-scale U-shape transformer network for anomaly detection</h3>
     <p class='publication-card__venue'>Measurement, 2024: 114216.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/ml-AD/DMU-TransNet'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/ml-AD/DMU-TransNet'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -153,7 +152,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>High-level vision task-driven infrared and visible image fusion approach: Progressive semantic enhancement based multi-scale Cross-modality Interactive network</h3>
     <p class='publication-card__venue'>Measurement, 2024.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/yyzzttkkjj/SeMIFusion'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/yyzzttkkjj/SeMIFusion'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -163,7 +162,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Skeleton-guided multi-scale dual-coordinate attention aggregation network for retinal blood vessel segmentation</h3>
     <p class='publication-card__venue'>Computers in Biology and Medicine, 2024, 181: 109027.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/wangwxr/SMDAA_NET'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/wangwxr/SMDAA_NET'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -173,7 +172,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Unsupervised domain adaptation fundus image segmentation via multi-scale adaptive adversarial learning</h3>
     <p class='publication-card__venue'>IEEE Journal of Biomedical and Health Informatics, 2023, 28(10): 5792–5803.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/M4cheal/MAAL'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/M4cheal/MAAL'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -183,7 +182,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>EARDS: EfficientNet and attention-based residual depth-wise separable convolution for joint OD and OC segmentation</h3>
     <p class='publication-card__venue'>Frontiers in Neuroscience, 2023.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/M4cheal/EARDS'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/M4cheal/EARDS'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -193,7 +192,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Pseudo-Label Clustering-Driven Dual-Level Contrast Learning Based Source-Free Domain Adaptation for Fundus Image Segmentation</h3>
     <p class='publication-card__venue'>Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2023: 492–503.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/M4cheal/PCDCL-SFDA'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/M4cheal/PCDCL-SFDA'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -203,7 +202,7 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Dual-path multi-scale context dense aggregation network for retinal vessel segmentation</h3>
     <p class='publication-card__venue'>Computers in Biology and Medicine, 2023, 164: 107269.</p>
-    <div class='publication-card__actions'><span>代表性成果</span><a class='publication-card__link' href='https://github.com/bai101315/MCDAU-Net'>Code</a></div>
+    <div class='publication-card__actions'><a class='publication-card__link' href='https://github.com/bai101315/MCDAU-Net'>Code</a></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -213,7 +212,6 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>RMSDSC-Net: A robust multiscale feature extraction with depthwise separable convolution network for optic disc and cup segmentation</h3>
     <p class='publication-card__venue'>International Journal of Intelligent Systems, 2022, 37(12): 11482–11505.</p>
-    <div class='publication-card__actions'><span>代表性成果</span></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -223,7 +221,6 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Deep sparse autoencoder integrated with three-stage framework for glaucoma diagnosis</h3>
     <p class='publication-card__venue'>International Journal of Intelligent Systems, 2022, 37(10): 7944–7967.</p>
-    <div class='publication-card__actions'><span>代表性成果</span></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -233,7 +230,6 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Automatic optic disc detection using low-rank representation based semi-supervised extreme learning machine</h3>
     <p class='publication-card__venue'>International Journal of Machine Learning and Cybernetics, 2020, 11: 55–69.</p>
-    <div class='publication-card__actions'><span>代表性成果</span></div>
   </div>
 </div>
 <div class='publication-card'>
@@ -243,7 +239,6 @@ redirect_from:
   <div class='publication-card__content'>
     <h3>Joint graph optimization and projection learning for dimensionality reduction</h3>
     <p class='publication-card__venue'>Pattern Recognition, 2019, 92: 258–273.</p>
-    <div class='publication-card__actions'><span>代表性成果</span></div>
   </div>
 </div></div>
 
