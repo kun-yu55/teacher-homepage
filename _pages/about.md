@@ -214,7 +214,7 @@ redirect_from:
 </div>
 <div class='publication-card'>
   <div class='publication-card__method'>
-    <img class='publication-card__image' src='images/publications/18-mcdau-net.png' alt='第 18 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img class='publication-card__image' src='images/publications/18-dual-path.png' alt='第 18 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
     <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
