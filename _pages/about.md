@@ -27,8 +27,9 @@ redirect_from:
 
 <div class='publication-list'>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 1 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/01-rcleaf.png' alt='第 1 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>RCLEAF: Reliable Contrastive Learning Driven Efficient Adaptive Fusion for Multi-View Clustering</h3>
@@ -36,8 +37,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 2 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/02-masg-sam.png' alt='第 2 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance</h3>
@@ -46,8 +48,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 3 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/03-esfda.png' alt='第 3 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Progressive pseudo-labels enhancement for source-free domain adaptation medical image segmentation</h3>
@@ -56,8 +59,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 4 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/04-skf-fusion.png' alt='第 4 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Self-distillation guided Semantic Knowledge Feedback network for infrared-visible image fusion</h3>
@@ -66,8 +70,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 5 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/05-sfifusion.png' alt='第 5 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>SFIFusion: Semantic-Frequency Integration for Task-driven Infrared and Visible Image Fusion</h3>
@@ -76,8 +81,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 6 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/06-c2mal.png' alt='第 6 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation</h3>
@@ -86,8 +92,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 7 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/07-3vnet.png' alt='第 7 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>3VNet: Topological-structure driven Triple-V Network for Retinal Vessel Segmentation</h3>
@@ -96,8 +103,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 8 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/08-adapt-sam.png' alt='第 8 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>AdaptSAM: Adaptive SAM for Cross-Domain Few-Shot Medical Image Segmentation</h3>
@@ -106,8 +114,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 9 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/09-dual-sam.png' alt='第 9 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Dual-SAM: Prompt-enhanced Dual-branch Adaptation of Vision Foundation Models for Semi-supervised Medical Image Segmentation</h3>
@@ -116,8 +125,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 10 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/10-biasam.png' alt='第 10 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation</h3>
@@ -126,8 +136,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 11 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/11-d2sfda.png' alt='第 11 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Diffusion-driven Dual-flow Source-Free Domain Adaptation for Medical Image Segmentation</h3>
@@ -136,8 +147,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 12 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/12-dmu-transnet.png' alt='第 12 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>DMU-TransNet: Dense multi-scale U-shape transformer network for anomaly detection</h3>
@@ -146,8 +158,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 13 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/13-semifusion.png' alt='第 13 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>High-level vision task-driven infrared and visible image fusion approach: Progressive semantic enhancement based multi-scale Cross-modality Interactive network</h3>
@@ -156,8 +169,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 14 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/14-smdaa-net.png' alt='第 14 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Skeleton-guided multi-scale dual-coordinate attention aggregation network for retinal blood vessel segmentation</h3>
@@ -166,8 +180,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 15 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/15-maal.png' alt='第 15 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Unsupervised domain adaptation fundus image segmentation via multi-scale adaptive adversarial learning</h3>
@@ -176,8 +191,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 16 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/16-eards.png' alt='第 16 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>EARDS: EfficientNet and attention-based residual depth-wise separable convolution for joint OD and OC segmentation</h3>
@@ -186,8 +202,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 17 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/17-pcdcl-sfda.png' alt='第 17 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Pseudo-Label Clustering-Driven Dual-Level Contrast Learning Based Source-Free Domain Adaptation for Fundus Image Segmentation</h3>
@@ -196,8 +213,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 18 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/18-mcdau-net.png' alt='第 18 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Dual-path multi-scale context dense aggregation network for retinal vessel segmentation</h3>
@@ -206,8 +224,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 19 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/19-rmsdsc-net.png' alt='第 19 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>RMSDSC-Net: A robust multiscale feature extraction with depthwise separable convolution network for optic disc and cup segmentation</h3>
@@ -215,8 +234,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 20 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/20-deep-sparse-autoencoder.png' alt='第 20 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Deep sparse autoencoder integrated with three-stage framework for glaucoma diagnosis</h3>
@@ -224,8 +244,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 21 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/21-automatic-optic-disc-detection.png' alt='第 21 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Automatic optic disc detection using low-rank representation based semi-supervised extreme learning machine</h3>
@@ -233,8 +254,9 @@ redirect_from:
   </div>
 </div>
 <div class='publication-card'>
-  <div class='publication-card__method' role='img' aria-label='第 22 篇论文的方法示意图预留位'>
-    <span>方法示意图</span><small>待上传</small>
+  <div class='publication-card__method'>
+    <img class='publication-card__image' src='images/publications/22-joint-graph-optimization.png' alt='第 22 篇论文的方法示意图' onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class='publication-card__placeholder'><span>方法示意图</span><small>待上传</small></div>
   </div>
   <div class='publication-card__content'>
     <h3>Joint graph optimization and projection learning for dimensionality reduction</h3>
