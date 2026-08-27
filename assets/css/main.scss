@@ -238,8 +238,8 @@ a:hover { color: #d9ad57; }
 }
 /* Shenyang Aerospace University brand bar */
 .university-brand {
-  background: linear-gradient(180deg, #12648f 0%, #3f8fb9 62%, #d7e9f2 100%);
-  border-bottom: 1px solid #78a5bd;
+  background: radial-gradient(circle at 8% 130%, rgba(255, 255, 255, .22), transparent 33%), linear-gradient(105deg, #07547f 0%, #176f9d 35%, #69a8c5 64%, #d7e9f2 85%, #f5f7f6 100%);
+  border-bottom: 1px solid #9fc1d0;
 }
 .university-brand__inner {
   margin: 0 auto;
