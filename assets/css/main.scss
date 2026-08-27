@@ -312,3 +312,34 @@ body {
 @media (max-width: 640px) {
   .site-background-brand { opacity: .07; right: 1rem; top: 8rem; width: 78vw; }
 }
+/* Prominent team recruitment notice */
+.team-invitation {
+  align-items: flex-start;
+  background: linear-gradient(105deg, rgba(201, 139, 44, .27), rgba(50, 104, 132, .44));
+  border: 1px solid rgba(231, 188, 104, .72);
+  border-left: 5px solid #e7bc68;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, .16);
+  display: flex;
+  gap: 1rem;
+  margin: -1rem 0 2.5rem;
+  padding: 1rem 1.25rem;
+  position: relative;
+  z-index: 1;
+}
+.team-invitation__label {
+  color: #151a27;
+  background: #e7bc68;
+  border-radius: 999px;
+  font-size: .85em;
+  font-weight: 800;
+  line-height: 1;
+  padding: .48rem .7rem;
+  white-space: nowrap;
+}
+.team-invitation p { color: #f6f0e5; font-size: 1.04em; line-height: 1.7; margin: -.2rem 0 0; }
+.team-invitation strong { color: #ffe19a; font-size: 1.08em; }
+@media (max-width: 640px) {
+  .team-invitation { flex-direction: column; gap: .6rem; margin-top: -.5rem; }
+  .team-invitation p { margin: 0; }
+}
