@@ -1,5 +1,8 @@
 {% assign author = site.author %}
 <header class="top-profile" aria-label="个人信息">
+  <a class="top-profile__school-mark" href="https://www.sau.edu.cn/index.htm" target="_blank" rel="noopener noreferrer" aria-label="访问沈阳航空航天大学官网">
+    <img src="{{ '/images/sau-logo.png' | relative_url }}" alt="沈阳航空航天大学">
+  </a>
   {% if author.avatar %}
     <img class="top-profile__avatar" src="{{ author.avatar }}" alt="{{ author.name }}">
   {% else %}
