@@ -282,3 +282,33 @@ a:hover { color: #d9ad57; }
   .top-profile__school-mark { opacity: .12; right: .8rem; top: .8rem; }
   .top-profile__school-mark img { width: 210px; }
 }
+/* Full-site university background: logo and gradient sit behind all content */
+body {
+  background: radial-gradient(circle at 88% 10%, rgba(91, 172, 210, .22), transparent 30%), linear-gradient(125deg, #0e1625 0%, #102b3b 52%, #1d4355 100%);
+  background-attachment: fixed;
+  position: relative;
+}
+.site-background-brand {
+  opacity: .1;
+  pointer-events: none;
+  position: fixed;
+  right: max(4vw, 2rem);
+  top: 7.5rem;
+  width: min(440px, 48vw);
+  z-index: 0;
+}
+.site-background-brand img { display: block; height: auto; width: 100%; }
+.masthead, #main { position: relative; z-index: 1; }
+.masthead { background: rgba(11, 19, 31, .74); backdrop-filter: blur(8px); }
+.greedy-nav, .greedy-nav a { background: transparent; }
+.top-profile {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  overflow: visible;
+  padding: 1.2rem 0 2.5rem;
+}
+.top-profile__school-mark { display: none; }
+@media (max-width: 640px) {
+  .site-background-brand { opacity: .07; right: 1rem; top: 8rem; width: 78vw; }
+}
