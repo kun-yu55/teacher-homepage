@@ -215,7 +215,7 @@ a:hover { color: #d9ad57; }
 /* Uploaded method figures */
 .publication-card__method { padding: 0; }
 .publication-card__method::before { display: none; }
-.publication-card__image { box-sizing: border-box; display: block; height: auto; max-height: 460px; object-fit: contain; padding: .85rem; position: relative; width: 100%; }
+.publication-card__image { box-sizing: border-box; height: 100%; inset: 0; object-fit: contain; padding: .85rem; position: absolute; width: 100%; }
 .publication-card__placeholder {
   align-items: center;
   border: 2px dashed #60708b;
